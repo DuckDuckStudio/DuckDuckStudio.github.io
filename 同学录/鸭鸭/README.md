@@ -33,7 +33,7 @@ QQ: 1707230454
 
 ## 网站建议
 网页底色:默认<!--默认为#f5f5dc(米色)-->  
-定义链接: https://duckduckstudio.github.io/同学录/鸭鸭/<!--以/结尾-->  
+定义链接: https://duckduckstudio.github.io/同学录/#/鸭鸭/<!--以/结尾-->  
 - [ ] 修改内容(初始提交请勿勾选)  
 GitHub账户: [DuckDuckStudio](https://github.com/DuckDuckStudio/)  
 
